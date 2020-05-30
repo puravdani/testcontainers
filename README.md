@@ -79,4 +79,6 @@ public class ClassATest
     }
 }
 ```
+
+### References
 [Apache Maven Surefire Plugin](http://maven.apache.org/surefire/maven-surefire-plugin/examples/junit-platform.html#)
