@@ -1,2 +1,4 @@
-com/demo/Junit5Test.class
 com/demo/Junit4Test.class
+com/demo/GenericContainerTest.class
+com/demo/Junit5Test.class
+com/demo/RedisContainerTest.class
