@@ -80,5 +80,9 @@ public class ClassATest
 }
 ```
 
+### TestContainers
+Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
+
 ### References
-[Apache Maven Surefire Plugin](http://maven.apache.org/surefire/maven-surefire-plugin/examples/junit-platform.html#)
+* [Apache Maven Surefire Plugin](http://maven.apache.org/surefire/maven-surefire-plugin/examples/junit-platform.html#)
+* [Test Containers](https://www.testcontainers.org/)
